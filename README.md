@@ -36,21 +36,6 @@ This repository documents the gap, names its layers, catalogues the language use
 
 ---
 
-## The Standards This Repository Holds Itself To
-
-Every document added to this repository is expected to meet the same six requirements the framework itself specifies for evidence:
-
-1. **Verifiability** — every claim linked to a publicly accessible source
-2. **Timestamping** — every event anchored to date and time
-3. **Separation** — verified facts explicitly separated from allegations
-4. **Non-expansion** — public handles and public content only, never private identifiers
-5. **Chain of custody** — documentation of how evidence was obtained and preserved
-6. **Retrievability** — published in a medium a third party can access and cite
-
-A document that does not meet these standards does not belong in this repository.
-
----
-
 ## What This Repository Is Not
 
 - **Not a target list.** Nothing here instructs anyone to act against any person or organization.
